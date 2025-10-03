@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="85bfb4f23bd8f2106a2ae2ac73e45ae0" extends="task" label="Deep Research Request" max_length="40" name="x_snc_fdae_your_0_deep_research_request" type="collection"/>
+</database>

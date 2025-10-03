@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>New Deep Research Request</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Deep Research Request</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">cc06d45897232210eef07080f053af10</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-10-03 20:58:29</sys_created_on>
+        <sys_id>59bf38f23bd8f2106a2ae2ac73e45afc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Deep Research Request</sys_name>
+        <sys_package display_value="FDAE Your First App" source="x_snc_fdae_your_0">4c457cba3b94f2106a2ae2ac73e45ae5</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="FDAE Your First App">4c457cba3b94f2106a2ae2ac73e45ae5</sys_scope>
+        <sys_update_name>sys_wizard_answer_59bf38f23bd8f2106a2ae2ac73e45afc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-10-03 20:58:29</sys_updated_on>
+        <table/>
+        <target_url>x_snc_fdae_your_0_deep_research_request.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>
