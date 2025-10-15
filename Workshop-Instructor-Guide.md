@@ -56,7 +56,7 @@ By the end of this workshop, participants will be able to:
   * **App Engine Studio** (AES). ([ServiceNow][14])
   * **ServiceNow Studio** (core app dev—available OOTB). ([ServiceNow][15])
   * **AI Agent Studio / Now Assist AI Agents**. ([ServiceNow][16])
-  * **AI Search for Next Experience** (+ **External Content** if using Web Crawler). ([ServiceNow][17])
+  * **AI Search for Next Experience** (+ **External Content** if using Web Crawler, update the plugin to the latest version [4.1.7]). ([ServiceNow][17]).
   * **Playbooks / Process Automation Designer (Workflow Studio)**. ([ServiceNow][6])
   * **Virtual Agent** (plus “Enable generative AI capability in Virtual Agent Designer” if available). ([ServiceNow][18])
   * **Configurable Workspace / UI Builder**. ([ServiceNow][19])
@@ -103,7 +103,7 @@ By the end of this workshop, participants will be able to:
 
    * **AI Agent Studio / Now Assist AI Agents**. ([ServiceNow][7])
 
-   * **AI Search for Next Experience** (+ **External Content** if using Web Crawler). ([ServiceNow][17])
+   * **AI Search for Next Experience** (+ **External Content** if using Web Crawler, update the plugin to the latest version [4.1.7]). ([ServiceNow][17])
 
    * **Playbooks / Process Automation Designer (Workflow Studio)**. ([ServiceNow][12])
 
